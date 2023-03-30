@@ -36,6 +36,8 @@
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
+- [`Flipper Fusion` Interesting NFC and badUSB resources and not only.](https://github.com/IamUSER/Flipper-Fusion)
+- [`Flipper Xtreme` Big collection of SubGHz resources.](https://github.com/BadException/Flipper-Xtreme)
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
 - [`DownGit` Create a GitHub Resource Download Link](https://uberguidoz.github.io/DownGit/)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
