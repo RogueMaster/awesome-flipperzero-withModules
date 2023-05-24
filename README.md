@@ -1,26 +1,22 @@
-<hr>
+<h1 align="center"><a href='https://rogue-master.net'><img src="https://rogue-master.net/img/rmlogo.png" width="40%"></a>
+<br><a href='https://discord.gg/gF2bBUzAFe' target='_blank'><img src='https://rogue-master.net/img/Discord.png' alt='Discord' title='Discord'></a>
+&nbsp;<a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest' target='_blank'><img src='https://rogue-master.net/img/Github.png' alt='Firmware GitHub' title='Firmware GitHub'></a>
+&nbsp;<a href='https://www.patreon.com/RogueMaster?filters[tag]=Latest%20Release' target='_blank'><img src='https://rogue-master.net/img/Patreon.png' alt='Latest PATREON Release' title='Latest PATREON Release'></a>
+&nbsp;<a href='https://shop.rogue-master.net/' target='_blank'><img src='https://rogue-master.net/img/Merch.png' alt='RM Merch'' title='RM Merch'></a>
+&nbsp;<a href='https://github.com/RogueMaster/awesome-flipperzero-withModules' target='_blank'><img src='https://rogue-master.net/img/Resources.png' alt='More Research / Assets' title='More Research / Assets'></a></h1>
 
-<a href="https://github.com/djsime1/awesome-flipperzero">
-  <img src="https://user-images.githubusercontent.com/8518150/158502722-2532719c-a680-4405-b230-d45474a5decd.png" align="center" alt="Awesome Flipper Zero" title="Awesome Flipper Zero">
-</a>
-
-<hr>
+# [Support Me On Patreon to get the best assets updated frequently!](https://www.patreon.com/RogueMaster)
 
 <h3 align="center">
-  A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br><br>
-  <a href="#">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" height=24>
-    <img src="https://img.shields.io/badge/Powered%20by-Dolphins-blue" alt="Powered by dolphins" height=24>
-    <img src="https://img.shields.io/badge/Approved%20by-Lurat-brightgreen" alt="Approved by Lurat" height=24 title="Lurat is the name of my Flipper">
-    <img src="https://img.shields.io/badge/Hack-The%20Planet-orange" alt="Hack the planet" height=24>
-  </a>
+  A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br>
+  <h2 align="center">... and every repo you need to clone...</h2>
 </h3>
 
 <table align="center"><tr>
   <td>
     <h3 align="center">
     👋 New to Flipper Zero? Got questions?<br>
-    Check out the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md">FAQ Document</a>❗
+    Check out the <a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/blob/rogue_main/FAQ.md">FAQ Document</a>❗
     </h3>
   </td>
   <td>
@@ -37,6 +33,7 @@
 
 ## Databases & Dumps
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
+- [`DownGit` Create a GitHub Resource Download Link](https://uberguidoz.github.io/DownGit/)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
 - [`FlipperZero-TouchTunes` Dumps of TouchTune's remote.](https://github.com/jimilinuxguy/flipperzero-touchtunes)
 - [`Flipper Maker` Generate Flipper Zero files on the fly.](https://flippermaker.github.io/)
@@ -50,13 +47,19 @@
 - [`UNC0V3R3D BadUSB collection` Yet another BadUSB collection.](https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb)
 - [`Flipper-StarNew` Universal Intercom Keys.](https://github.com/GlUTEN-BASH/Flipper-Starnew)
 - [`FalsePhilosophers Flipper BadUSB` Flipper zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb)
+- [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
 
 ## Applications & Plugins
+- [`The Flipper Zero user interface editor` The GUI editor/generator for Flipper Zero.](https://ilin.pt/stuff/fui-editor/)
+- [`Web Flasher` Flash latest FW from your browser without qFlipper, also lets you paint](https://my.flipp.dev/)
+- [`Flipper-Plugin-Tutorial` Building a Custom "Hello world" plugin.](https://github.com/mfulz/Flipper-Plugin-Tutorial)
 - [`Flipper-Plugin-Tutorial` Updated plugin tutorial based on new build methods.](https://github.com/csBlueChip/FlipperZero_plugin_howto)
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
+- [`Doom` Doom Flipper Zero edition.](https://github.com/p4nic4ttack/doom-flipper-zero)
 - [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
 - [`Flappy Bird` The name says it all.](https://github.com/DroomOne/flipperzero-firmware/tree/dev/applications%2Fflappy_bird)
+- [`T-Rex Runner` Flipper zero port of Chrome's game.](https://github.com/Rrycbarm/t-rex-runner)
 - [`Mouse jiggler` Keeps PC screens on by acting as a moving mouse.](https://github.com/MuddledBox/flipperzero-firmware/tree/Mouse_Jiggler/applications/mouse_jiggler)
 - [`floopper-bloopper` LD#47 Game.](https://github.com/glitchcore/floopper-bloopper)
 - [`NRF24 & Mousejacking` PoC NRF24 library and mousejack exploitation app.](https://github.com/mothball187/flipperzero-nrf24)
@@ -85,13 +88,11 @@
 
 <table align="right">
   <tr><th><strong>Hey you!</strong></th></tr>
-  <tr><td>🔰 <em><a href="https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
+  <tr><td>🔰 <em><a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/blob/rogue_main/Firmwares.md">Click here</a> for a feature<br>comparison of these firmwares!</em></td></tr>
 </table>
 
+- [`RogueMaster` Unleashed + Official FW fork with assorted community plugins, tweaks, & games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
 - [`Unleashed` Unlocked firmware with rolling codes support & community plugins, stable tweaks, and games.](https://github.com/DarkFlippers/unleashed-firmware)
-- [`RogueMaster` Fork of Unleashed firmware with custom graphics, experimental tweaks, community plugins and games.](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
-- [`Xtreme` Official fork with cleaned up codebase, more module extensions and custom assets.](https://github.com/ClaraCrazy/Flipper-Xtreme)
-- [`Dexv` Xtreme fork; The "Will it blend?" of custom firmwares.](https://github.com/DXVVAY/Dexvmaster0)
 - [`SquachWare` Fork of official firmware which adds custom graphics, community applications & files.](https://github.com/skizzophrenic/SquachWare-CFW)
 - [`v1nc flipper zero firmware` Unleashed fork with support for different Duckyscript keyboard layouts & community plugins.](https://github.com/v1nc/flipperzero-firmware)
 - [`Wetox` Very similar to the official branch, with a few small tweaks.](https://github.com/wetox-team/flipperzero-firmware)
@@ -114,6 +115,7 @@
 - [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
 
 ## Modules & Cases
+- [`Dying the Flipper Zero Stock Case Black` Using Rit Dyemore Graphite](https://www.reddit.com/r/flipperzero/comments/vhb8hv/with_inspiration_and_info_from_uchillbasss_ive)
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
@@ -133,6 +135,7 @@
 - [`WiFi Devboard Pelican Case` Top case that works with the 4mm FZ Pelican case.](https://github.com/Z3BRO/Flipper-Zero-Pelican-Case-Wifi-Devboard)
 - [`FlipperZero RGB backlight` Replacing stock backlight with RGB](https://github.com/quen0n/flipperzero-firmware-rgb)
 - [`The Mayhem Fin` ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.](https://github.com/eried/flipperzero-mayhem)
+- [Flipper Skin (By Unknown)](https://www.dropbox.com/sh/qae45juc44ukzib/AADEqb8G2rcyeIj6ZcKStqs7a?dl=0)
 
 ## Off-device & Debugging
 - [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://lab.flipper.net/)
@@ -161,6 +164,7 @@
 - [`fzfs` Flipper Zero filesystem driver.](https://github.com/dakhnod/fzfs)
 - [`Pagger` Sub-GHz generators for restaurants/kiosks paging systems.](https://meoker.github.io/pagger/)
 - [`FBT-AARCH64` A script that sets up FBT's toolchain on ARM devices.](https://github.com/qqmajikpp/FBT-AARCH64)
+- [`flipper2mct` A script to convert Flipper NFC files to Mifare Classic Tools format for MC 1k & 4k.](https://gist.github.com/ardubev16/339ee55e0e610e9241dd236c11ac3c3d)
 
 ## Notes & References
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
@@ -173,6 +177,7 @@
 - [`Add-on Modules GPIO Pinouts` ESP32, ESP8266, ESP32-CAM, ESP32-WROOM, NRF24.](https://github.com/UberGuidoZ/Flipper/tree/main/GPIO)
 - [`Firmware roadmap` Official stock firmware roadmap.](https://miro.com/app/board/uXjVO_3D6xU=/?moveToWidget=3458764522498020058&cot=14)
 - [`Flipper Zero SW&HW keynote` (OUTDATED) Hardware & software architecture document.](https://miro.com/app/board/o9J_l1XZfbw=/?moveToWidget=3458764514405659414&cot=14)
+- [`WiFi Dev Board How To` with Marauder firmware by JustCallMeKoko](https://www.reddit.com/r/flipperzero/comments/vn29z2/wifi_dev_board_with_marauder_firmware/)
 - [`Unofficial Community Wiki` To help consolidate all things Flipper (official and unofficial).](https://flipperzero.miraheze.org/wiki/Main_Page)
 - [`Flipper Zero disassembly guide` Difficulty: Moderate, Time: 8-15 Minutes.](https://www.ifixit.com/Guide/Flipper+Zero+Disassembly/151455)
 - [`Alternative disassembly video` Third-party video for disassembling the Flipper.](https://youtu.be/38pHe7M4vl8)
@@ -187,7 +192,6 @@
 <hr>
 <h3 align="center">Want to make changes?</h3>
 <div align="center">
-  You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
-  or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
-  Read the <a href="https://github.com/djsime1/awesome-flipperzero/blob/main/FAQ.md#meta-">Meta FAQ section</a> for more info.
+  You can <kbd><a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/edit/rogue_main/README.md">Edit this file</a></kbd> and open a Pull Request.<br>
+  Read the <a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/blob/rogue_main/FAQ.md#meta-">Meta FAQ section</a> for more info.
 </div>

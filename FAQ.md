@@ -43,10 +43,7 @@
 > If there's multiple small pull requests open at the same time, I'll often merge them together as a single update. Due to the way GitHub works, I'm unable to mark them as merged when I do this. To compensate, I include the contributors as co-authors on the commit, and mention the Pull Request ID's as part of the update message.
 
 ### This is really cool! Is there a way I can donate to you?
-> I really appreciate the kind words, however I'm not accepting personal monetary donations.
-> If you're really insistent, I'll accept a Discord Nitro gift ([`@DJ#9822`](https://discord.gg/9rduBhctJ6)) or Steam Game ([`/id/djsime1`](https://steamcommunity.com/id/djsime1/))!
-> Besides that, why not support a local charity/organization instead? My personal recommendation is the [Electronic Frontier Foundation](https://supporters.eff.org/donate).
-
+. You can find my [PATREON](https://www.patreon.com/RogueMaster) to donate
 
 
 ## General [🔝](#top)
@@ -70,8 +67,7 @@
 > Assuming the application has been packaged as a `.fap` file, installing it is as easy as placing it inside the `apps` directory on your Flipper's SD card. You can launch the app from the `Applications` app. If the app hasn't been compiled into a `.fap`, either *kindly* ask the author or compile it yourself.
 
 ### How do I install custom firmwares?
-> First, ask yourself if you really need to. Sure, it might be fun to break out of Sub-GHz transmission restrictions, but how often are you actually going to do that? Is it really worth breaking the law?
-> After you've ignored the previous sentences, make sure there's a working MicroSD Card in your Flipper and head over to the repository of your perferred firmware. Look for releases and find the `.dfu` file or update package (typically a `.tar`, `.tar.gz`, or `.zip` file, it always contains a file named `update.fuf`).
+> Make sure there's a working MicroSD Card in your Flipper and head over to [RM Custom Firmware](https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest). Make sure qFlipper is closed. Use the Web Installer link and you will be all set. Alternatively, look for releases and find the `.dfu` file or update package (typically a `.tar`, `.tar.gz`, or `.zip` file, it always contains a file named `update.fuf`).
 > - If you only have a `.dfu`, it must be installed using the "Install from file" option in qFlipper. Select the file and begin the installation.
 > - If you have an update package, you can either install it with qFlipper, or install it manually through the Micro SD card by following the steps below.
 > - To manually install an update package, extract and transfer the folder (not the original archive file) to the `update` folder on the SD Card (create the folder if it doesn't already exist). Once transferred, go to the desktop/idle screen of the Flipper, press down to access the file browser, then left to view all folders. From there, open the `update` folder (typically at the bottom of the list) and find the folder you just transferred. Lastly, select the file named `update` and choose "Run in app" to install the firmware.

@@ -1,0 +1,63 @@
+[submodule "infrared"]
+	path = infrared
+	url = https://github.com/logickworkshop/Flipper-IRDB.git
+[submodule "PLAYGROUND"]
+	path = PLAYGROUND
+	url = https://github.com/UberGuidoZ/Flipper.git
+[submodule "nfc/Amiibo"]
+	path = nfc/Amiibo
+	url = https://github.com/RogueMaster/FlipperAmiibo
+[submodule "scripts/dolphin_state"]
+	path = scripts/dolphin_state
+	url = https://github.com/DroomOne/FlipperScripts
+[submodule "music_player"]
+	path = music_player
+	url = https://github.com/neverfa11ing/FlipperMusicRTTTL
+[submodule "fw/OFW"]
+	path = fw/OFW
+	url = https://github.com/flipperdevices/flipperzero-firmware
+[submodule "wifiPenTool"]
+	path = wifiPenTool
+	url = https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool
+[submodule "fw/unleashed"]
+	path = fw/unleashed
+	url = https://github.com/Eng1n33r/flipperzero-firmware.git
+[submodule "fw/RogueMasterWApps"]
+	path = fw/RogueMasterWApps
+	url = https://github.com/RogueMaster/flipperzero-firmware-wPlugins.git
+[submodule "scripts/AmiboConverterV2"]
+	path = scripts/AmiboConverterV2
+	url = https://github.com/Lanjelin/AmiiboConverter.git
+[submodule "fw/squach"]
+	path = fw/squach
+	url = https://github.com/skizzophrenic/SquachWare-CFW.git
+[submodule "scripts/FBT-AARCH64"]
+	path = scripts/FBT-AARCH64
+	url = https://github.com/qqmajikpp/FBT-AARCH64.git
+[submodule "scripts/Logi-Downgrade-for-NRF24"]
+	path = scripts/Logi-Downgrade-for-NRF24
+	url = https://github.com/qqmajikpp/Logi-Downgrade-for-NRF24.git
+[submodule "badusb/FlipperShits"]
+	path = badusb/FlipperShits
+	url = https://github.com/aleff-github/my-flipper-shits.git
+[submodule "badusb/Jakoby"]
+	path = badusb/Jakoby
+	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB.git
+[submodule "badusb/FalsePhilosopher"]
+	path = badusb/FalsePhilosopher
+	url = https://github.com/FalsePhilosopher/badusb.git
+[submodule "badusb/UNC0V3R3D"]
+	path = badusb/UNC0V3R3D
+	url = https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb.git
+[submodule "badusb/nocomp"]
+	path = badusb/nocomp
+	url = https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads.git
+[submodule "badusb/Kavitate"]
+	path = badusb/Kavitate
+	url = https://github.com/Kavitate/FlipperZeroBadUSB.git
+[submodule "badusb/atomiczsec"]
+	path = badusb/atomiczsec
+	url = https://github.com/atomiczsec/My-Payloads.git
+[submodule "badusb/CharlesTheGreat77"]
+	path = badusb/CharlesTheGreat77
+	url = https://github.com/CharlesTheGreat77/BADUSB.git
