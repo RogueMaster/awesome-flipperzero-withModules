@@ -1,0 +1,16 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: RM_F0_1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: RM_F0_2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
