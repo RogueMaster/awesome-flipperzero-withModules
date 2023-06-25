@@ -2073,6 +2073,13 @@ Min level: 1
 Max level: 30
 Weight: 14
 
+Name: L1_Kaiju_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
 Name: L1_Laptop_128x51
 Min butthurt: 0
 Max butthurt: 14
@@ -2149,6 +2156,13 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 3
+
+Name: L2_Dj_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
 
 Name: L2_Furippa2_128x64
 Min butthurt: 0
