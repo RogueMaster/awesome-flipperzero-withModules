@@ -36,12 +36,12 @@ Min level: 1
 Max level: 30
 Weight: 7
 
-Name: L2_Dj_128x64
+Name: L1_My_dude_128x64
 Min butthurt: 0
 Max butthurt: 14
-Min level: 2
+Min level: 1
 Max level: 30
-Weight: 7
+Weight: 8
 
 Name: L1_Painting_128x64
 Min butthurt: 0
@@ -96,6 +96,13 @@ Name: L1_Waves_128x50
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L2_Dj_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
 Max level: 30
 Weight: 7
 
