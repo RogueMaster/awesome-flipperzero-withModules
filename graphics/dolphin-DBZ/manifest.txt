@@ -36,6 +36,13 @@ Min level: 1
 Max level: 30
 Weight: 7
 
+Name: RM_G0kuN3xtL3v3L_128x74
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: RM_G0kuPew_128x64
 Min butthurt: 0
 Max butthurt: 14
