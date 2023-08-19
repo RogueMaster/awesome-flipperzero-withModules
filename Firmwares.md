@@ -1,6 +1,6 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-    <code>::</code> Last updated Mar 27 2023. <code>::</code>
+    <code>::</code> Last updated August 19 2023. <code>::</code>
 </h3>
 <p>This document will <em>(hopefully)</em> maintain a list of differences between various forks of the <a
     href="#official">Flipper Zero firmware</a>. <br>If I had a dollar for every time I&#39;ve seen this question asked,
@@ -21,6 +21,7 @@
   </kbd>
 </h2>
 <ul>
+  <li>Remains the best and most updated firmware in the community</li>
   <li>Built off Unleashed as the base firmware (which is a fork of Official dev firmware.)</li>
   <li>First to allow for rename through Name Changer app.</li>
   <li>First to allow for removal of Sub-GHz regional transmission restrictions through Extend Range app.</li>
