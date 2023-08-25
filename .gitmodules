@@ -61,6 +61,3 @@
 [submodule "badusb/CharlesTheGreat77"]
 	path = badusb/CharlesTheGreat77
 	url = https://github.com/CharlesTheGreat77/BADUSB.git
-[submodule "badusb/GOODDUCKY"]
-	path = badusb/GOODDUCKY
-	url = https://github.com/ooovenenoso/GOOD-DUCKY.git
