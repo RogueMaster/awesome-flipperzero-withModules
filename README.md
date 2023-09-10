@@ -115,6 +115,7 @@
 - [`DoobTheGoober Animations` Custom animations from the creator of zip2Animation](https://github.com/CharlesTheGreat77/FlipperZeroAnimation)
 - [`UberGuidoZ Graphics` Brief description and links to resources, including PYX host.](https://github.com/UberGuidoZ/Flipper/tree/main/Graphics)
 - [`Animations by mnenkov` A dump with animations and manifest creator for batch files.](https://github.com/mnenkov/flipper-zero-animations)
+- [`Oneamongthetrees Animations/Graphics` Collection of custom animations and passport icons.](https://github.com/oneamongthetrees/fz-gfx)
 
 ## Modules & Cases
 - [`Ultimate Flipper Zero Case` 3D printed case with room for 3rd party modules & 2x WiFi dev board slots.](https://www.printables.com/model/527482-ultimate-flipper-case)
