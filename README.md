@@ -54,6 +54,12 @@
 - [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
 
 ## Applications & Plugins
+
+<table align="right">
+  <tr><th><strong>Try official apps</strong></th></tr>
+  <tr><td>📱 <em>The Flipper Zero also has<br>an <a href="https://lab.flipper.net/apps">official app store!</a></em></td></tr>
+</table>
+
 - [`Flipper-Plugin-Tutorial` Updated plugin tutorial based on new build methods.](https://github.com/csBlueChip/FlipperZero_plugin_howto)
 - [`Spectrum analyzer` Sub-GHz frequency spectrum analyzer.](https://github.com/jolcese/flipperzero-firmware/tree/spectrum/applications/spectrum_analyzer)
 - [`Tetris` A rudimentary Tetris game.](https://github.com/jeffplang/flipperzero-firmware/tree/tetris_game/applications/tetris_game)
@@ -170,6 +176,12 @@
 - [`flipper2mct` A script to convert Flipper NFC files to Mifare Classic Tools format for MC 1k & 4k.](https://gist.github.com/ardubev16/339ee55e0e610e9241dd236c11ac3c3d)
 
 ## Notes & References
+
+<table align="right">
+  <tr><th><strong>Need help using your Flipper Zero?</strong></th></tr>
+  <tr><td>📕 <em>Give the <a href="https://docs.flipper.net/">official documentation</a> a read!</em></td></tr>
+</table>
+
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
@@ -192,7 +204,7 @@
 <!-- DO NOT MODIFY BELOW -->
 
 <hr>
-<h3 align="center">Want to make changes?</h3>
+<h3 align="center">🆕 Want to make changes? ✨</h3>
 <div align="center">
   You can <kbd><a href="https://github.com/djsime1/awesome-flipperzero/edit/main/README.md">Edit this file</a></kbd> and open a Pull Request,
   or <kbd><a href="https://github.com/djsime1/awesome-flipperzero/discussions">Start a discussion</a></kbd> with your ideas.<br>
