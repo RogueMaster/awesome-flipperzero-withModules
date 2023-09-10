@@ -107,6 +107,7 @@
 - [`Flipper Zero Animation Process` Google Doc step by step from Talking Sasquach.](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub)
 - [`Flipper Animation Manager` Visualize and manage animations directly from your computer.](https://github.com/Ooggle/FlipperAnimationManager)
 - [`zip2Animation` Utility to assist in creating animations.](https://github.com/CharlesTheGreat77/zip2Animation)
+- [`H4XV's Gif2Anim` Gif2FlipperAnimation Converter](https://github.com/H4XV/flipper-animation-generator)
 - [`Haseosama Animations` Great collection of custom animations.](https://github.com/Haseosama/FZ_Animations)
 - [`Animations by stopoxy` Another great custom animation collection.](https://github.com/stopoxy/FZAnimations)
 - [`Wr3nch Animations` Some custom animations and scripts.](https://github.com/wrenchathome/flip0anims)
