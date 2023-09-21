@@ -6,6 +6,7 @@
 &nbsp;<a href='https://github.com/RogueMaster/awesome-flipperzero-withModules' target='_blank'><img src='https://rogue-master.net/img/Resources.png' alt='More Research / Assets' title='More Research / Assets'></a></h1>
 
 # [Support Me On Patreon to get the best assets updated frequently!](https://www.patreon.com/RogueMaster)
+## [This repo is an improved fork of the OG Awesome Flipper Collection of Awesome Resources!](https://github.com/djsime1/awesome-flipperzero)
 
 <h3 align="center">
   A collection of Awesome resources for the <a href="https://flipperzero.one">Flipper Zero</a> device.<br>
