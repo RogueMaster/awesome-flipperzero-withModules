@@ -32,6 +32,7 @@
 <!-- DO NOT MODIFY ABOVE -->
 
 ## Databases & Dumps
+- [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`UberGuidoZ Playground` Large collection of files, documentation, and dumps of all kinds.](https://github.com/UberGuidoZ/Flipper)
 - [`DownGit` Create a GitHub Resource Download Link](https://uberguidoz.github.io/DownGit/)
 - [`Flipper-IRDB` Many IR dumps for various appliances.](https://github.com/logickworkshop/Flipper-IRDB)
@@ -106,6 +107,7 @@
 - [`Flipper Zero Animation Process` Google Doc step by step from Talking Sasquach.](https://docs.google.com/document/d/e/2PACX-1vR_nZRakD6iwJVQS8Pf4y7Wm4klcucrC7EKVO8m_DQV63To7e-alqD0yaoO3sTygjcChfcRo80Hdeet/pub)
 - [`Flipper Animation Manager` Visualize and manage animations directly from your computer.](https://github.com/Ooggle/FlipperAnimationManager)
 - [`zip2Animation` Utility to assist in creating animations.](https://github.com/CharlesTheGreat77/zip2Animation)
+- [`H4XV's Gif2Anim` Gif2FlipperAnimation Converter](https://github.com/H4XV/flipper-animation-generator)
 - [`Haseosama Animations` Great collection of custom animations.](https://github.com/Haseosama/FZ_Animations)
 - [`Animations by stopoxy` Another great custom animation collection.](https://github.com/stopoxy/FZAnimations)
 - [`Wr3nch Animations` Some custom animations and scripts.](https://github.com/wrenchathome/flip0anims)
@@ -117,6 +119,8 @@
 
 ## Modules & Cases
 - [`Dying the Flipper Zero Stock Case Black` Using Rit Dyemore Graphite](https://www.reddit.com/r/flipperzero/comments/vhb8hv/with_inspiration_and_info_from_uchillbasss_ive)
+- [`Oneamongthetrees Animations/Graphics` Collection of custom animations and passport icons.](https://github.com/oneamongthetrees/fz-gfx)
+- [`Ultimate Flipper Zero Case` 3D printed case with room for 3rd party modules & 2x WiFi dev board slots.](https://www.printables.com/model/527482-ultimate-flipper-case)
 - [`FlipperZero-Hardware` 3D-Printable cases with custom iButton interface.](https://github.com/s0ko1ex/FlipperZero-Hardware)
 - [`Flipper Zero Cases` 3D-Printable case & cover models.](https://github.com/MuddledBox/FlipperZeroCases)
 - [`FlipperZero-Protoboards-Kicad` KiCad prototype boards.](https://github.com/lomalkin/flipperzero-protoboards-kicad)
@@ -137,6 +141,7 @@
 - [`FlipperZero RGB backlight` Replacing stock backlight with RGB](https://github.com/quen0n/flipperzero-firmware-rgb)
 - [`The Mayhem Fin` ESP32 with WiFi, BT/BLE, Micro-SD, Camera, Flashlight, NRF24/CC1101, and more.](https://github.com/eried/flipperzero-mayhem)
 - [Flipper Skin (By Unknown)](https://www.dropbox.com/sh/qae45juc44ukzib/AADEqb8G2rcyeIj6ZcKStqs7a?dl=0)
+- [`Flipper-Zero-Backpacks` Backpack addon boards with ESP32, Raspberry Pi, Protoboards etc.](https://github.com/Chrismettal/flipper-zero-backpacks)
 
 ## Off-device & Debugging
 - [`Official Web Interface` Web interface to interact with Flipper, including Paint and SUB/IR analyzer.](https://lab.flipper.net/)
@@ -168,6 +173,12 @@
 - [`flipper2mct` A script to convert Flipper NFC files to Mifare Classic Tools format for MC 1k & 4k.](https://gist.github.com/ardubev16/339ee55e0e610e9241dd236c11ac3c3d)
 
 ## Notes & References
+
+<table align="right">
+  <tr><th><strong>Need help using your Flipper Zero?</strong></th></tr>
+  <tr><td>📕 <em>Give the <a href="https://docs.flipper.net/">official documentation</a> a read!</em></td></tr>
+</table>
+
 - [`Official battery self-repair guide` How to troubleshoot battery issues.](https://cdn.flipperzero.one/self-repair-guide.pdf)
 - [`Official firmware recovery guide` How to troubleshoot firmware issues.](https://docs.flipperzero.one/basics/firmware-update/firmware-recovery)
 - [`FZ Firmware Comparisons` Comparison of custom firmwares listed in this repo.](https://github.com/djsime1/awesome-flipperzero/blob/main/Firmwares.md)
@@ -191,7 +202,7 @@
 <!-- DO NOT MODIFY BELOW -->
 
 <hr>
-<h3 align="center">Want to make changes?</h3>
+<h3 align="center">🆕 Want to make changes? ✨</h3>
 <div align="center">
   You can <kbd><a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/edit/rogue_main/README.md">Edit this file</a></kbd> and open a Pull Request.<br>
   Read the <a href="https://github.com/RogueMaster/awesome-flipperzero-withModules/blob/rogue_main/FAQ.md#meta-">Meta FAQ section</a> for more info.
