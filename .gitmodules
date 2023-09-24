@@ -67,3 +67,6 @@
 [submodule "fw/OFW-APP-CATALOG"]
 	path = fw/OFW-APP-CATALOG
 	url = https://github.com/flipperdevices/flipper-application-catalog.git
+[submodule "fw/UL-PLUGINS"]
+	path = fw/UL-PLUGINS
+	url = https://github.com/xMasterX/all-the-plugins.git
