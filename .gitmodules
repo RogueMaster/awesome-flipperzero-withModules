@@ -61,3 +61,9 @@
 [submodule "badusb/CharlesTheGreat77"]
 	path = badusb/CharlesTheGreat77
 	url = https://github.com/CharlesTheGreat77/BADUSB.git
+[submodule "fw/OFW-GOOD-FAPS"]
+	path = fw/OFW-GOOD-FAPS
+	url = https://github.com/flipperdevices/flipperzero-good-faps.git
+[submodule "fw/OFW-APP-CATALOG"]
+	path = fw/OFW-APP-CATALOG
+	url = https://github.com/flipperdevices/flipper-application-catalog.git
