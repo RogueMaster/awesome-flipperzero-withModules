@@ -1,0 +1,247 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: anon_bondage_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: anon_booty_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: anon_row_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: anon_tiddies_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: anon_titties_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: anon_witchy_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: IoriKesso/nsfw/boobs2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/cock_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/icecream_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/kobeni_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/megumin9_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/nsfw1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/pantsu2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/pantsu3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/pantsu4_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/rumia11_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: IoriKesso/nsfw/sistirumia1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: MjK_hentai_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 8
+Max level: 30
+Weight: 9
+
+Name: RM_AikaZer0_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 14
+Max level: 30
+Weight: 9
+
+Name: RM_AikaZer0_2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 13
+Max level: 30
+Weight: 9
+
+Name: RM_BibleBlack1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: RM_BibleBlack2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: RM_BulmFlash_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 10
+Max level: 30
+Weight: 9
+
+Name: RM_CoolDevices1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: RM_FroInn_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 3
+Max level: 30
+Weight: 9
+
+Name: RM_Hentai1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 4
+Max level: 30
+Weight: 9
+
+Name: RM_HSDxDH7_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 5
+Max level: 30
+Weight: 9
+
+Name: RM_Kaz0ku_Haha_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 11
+Max level: 30
+Weight: 9
+
+Name: RM_P3achRun_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 12
+Max level: 30
+Weight: 9
+
+Name: RM_PoolTime2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 9
+
+Name: RM_PoolTime_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: RM_Rias1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 6
+Max level: 30
+Weight: 9
+
+Name: RM_Rias2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 7
+Max level: 30
+Weight: 9
+
+Name: RM_Sail0rM00n_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 9
+Max level: 30
+Weight: 9
+
+Name: RM_Z3lda_0h_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 15
+Max level: 30
+Weight: 9
