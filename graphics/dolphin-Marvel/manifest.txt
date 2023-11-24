@@ -1,0 +1,16 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: steveballantyne_Tempad_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 99
+
+Name: steveballantyne_Miss_Minutes_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 99

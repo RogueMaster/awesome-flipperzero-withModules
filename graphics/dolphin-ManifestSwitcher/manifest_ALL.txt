@@ -1317,6 +1317,90 @@ Min level: 1
 Max level: 30
 Weight: 8
 
+Name: Kuronons_Virus_CMOSDead_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Elvira_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Techno_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_MadMan_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Phantom1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Cascade_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Ambulance_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Upsilon_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Walker_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Cerberus_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Plane_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_Virus_Coconut_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
 Name: L1_Agumon_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -1591,6 +1675,13 @@ Max level: 30
 Weight: 8
 
 Name: L2_Hacking_pc_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: L2_Secret_door_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -2438,6 +2529,20 @@ Max level: 30
 Weight: 8
 
 Name: Squirtle
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: steveballantyne_Tempad_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: steveballantyne_Miss_Minutes_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
