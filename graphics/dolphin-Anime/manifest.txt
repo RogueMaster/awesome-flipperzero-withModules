@@ -64,13 +64,6 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: Haseo_Lufy_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 5
-
 Name: Haseo_Maha_128x64
 Min butthurt: 0
 Max butthurt: 14
