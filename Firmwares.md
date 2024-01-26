@@ -45,8 +45,7 @@
     </kbd>
 </h2>
 <ul>
-    <li><em>(AKA Code Grabber firmware.)</em></li>
-    <li>Very active development and Discord community.</li>
+    <li>Somewhat active development and Discord community.</li>
     <li>Removes Sub-GHz regional transmission restrictions by default.</li>
     <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>dangerous_settings</em> file.</li>
     <li>Adds extra Sub-GHz frequencies by default through Official <em>setting_user</em> file.</li>
