@@ -1,3 +1,5 @@
+<h1 align="center"><a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest' target='_blank'>GET FIRMWARE HERE</a></H1>
+
 <h1 align="center"><a href='https://rogue-master.net'><img src="https://rogue-master.net/img/rmlogo.png" width="40%"></a>
 <br><a href='https://discord.gg/gF2bBUzAFe' target='_blank'><img src='https://rogue-master.net/img/Discord.png' alt='Discord' title='Discord'></a>
 &nbsp;<a href='https://github.com/RogueMaster/flipperzero-firmware-wPlugins/releases/latest' target='_blank'><img src='https://rogue-master.net/img/Github.png' alt='Firmware GitHub' title='Firmware GitHub'></a>
