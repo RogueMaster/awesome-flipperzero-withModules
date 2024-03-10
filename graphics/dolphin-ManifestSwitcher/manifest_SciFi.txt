@@ -1,0 +1,93 @@
+Filetype: Flipper Animation Manifest
+Version: 1
+
+Name: Kuronons_Misc_HAL9000_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_Cyberdyne_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_Dharma_dark_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_ENCOM_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_INGSOC_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_OCP2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_OCP3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_OCP_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_Rekall_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_Skynet_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_Tyrell_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_WeylandYutani_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
+
+Name: Kuronons_SFlogoLoop_Weyland_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 14
