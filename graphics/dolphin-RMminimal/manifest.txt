@@ -1,6 +1,13 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: MjK_blank_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 0
+
 Name: wrenchathome_F0Pattern_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -9,13 +16,6 @@ Max level: 30
 Weight: 6
 
 Name: Kuronons_RMCFW_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 2
-Max level: 30
-Weight: 7
-
-Name: L2_Dj_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 2
@@ -78,6 +78,13 @@ Min level: 2
 Max level: 30
 Weight: 7
 
+Name: RM_OPxFlipper_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 2
+Max level: 30
+Weight: 7
+
 Name: Sasquach_Blaster_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -113,21 +120,7 @@ Min level: 2
 Max level: 30
 Weight: 7
 
-Name: L1_My_dude_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
 Name: L2_Coding_in_the_shell_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: L2_Secret_door_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
