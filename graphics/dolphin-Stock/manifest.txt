@@ -1,13 +1,6 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
-Name: L2_Coding_in_the_shell_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
 Name: L1_Furippa1_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -48,7 +41,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 8
+Weight: 7
 
 Name: L1_Painting_128x64
 Min butthurt: 0
@@ -76,7 +69,7 @@ Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
-Weight: 5
+Weight: 7
 
 Name: L1_Sleep_128x64
 Min butthurt: 0
@@ -100,6 +93,13 @@ Max level: 30
 Weight: 7
 
 Name: L1_Waves_128x50
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L2_Coding_in_the_shell_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -142,6 +142,13 @@ Max level: 30
 Weight: 7
 
 Name: L2_Wake_up_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 7
+
+Name: L3_Freedom_2_dolphins_128x64
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
