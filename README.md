@@ -88,6 +88,7 @@
 - [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
 - [`Reversi` The classic Reversi game](https://github.com/dimat/flipperzero-reversi)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`Noptel LRF rangefinder sampler` App to get range measurements from a Noptel LRF rangefinder](https://github.com/Giraut/flipper_zero_noptel_lrf_sampler)
 
 ## Firmwares & Tweaks
 
