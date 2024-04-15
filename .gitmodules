@@ -43,9 +43,6 @@
 [submodule "badusb/FalsePhilosopher"]
 	path = badusb/FalsePhilosopher
 	url = https://github.com/FalsePhilosopher/badusb.git
-[submodule "badusb/UNC0V3R3D"]
-	path = badusb/UNC0V3R3D
-	url = https://github.com/UNC0V3R3D/Flipper_Zero-BadUsb.git
 [submodule "badusb/nocomp"]
 	path = badusb/nocomp
 	url = https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads.git
