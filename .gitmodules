@@ -37,21 +37,6 @@
 [submodule "badusb/FlipperShits"]
 	path = badusb/FlipperShits
 	url = https://github.com/aleff-github/my-flipper-shits.git
-[submodule "badusb/Jakoby"]
-	path = badusb/Jakoby
-	url = https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB.git
-[submodule "badusb/FalsePhilosopher"]
-	path = badusb/FalsePhilosopher
-	url = https://github.com/FalsePhilosopher/badusb.git
-[submodule "badusb/nocomp"]
-	path = badusb/nocomp
-	url = https://github.com/nocomp/Flipper_Zero_Badusb_hack5_payloads.git
-[submodule "badusb/Kavitate"]
-	path = badusb/Kavitate
-	url = https://github.com/Kavitate/FlipperZeroBadUSB.git
-[submodule "badusb/atomiczsec"]
-	path = badusb/atomiczsec
-	url = https://github.com/atomiczsec/My-Payloads.git
 [submodule "badusb/CharlesTheGreat77"]
 	path = badusb/CharlesTheGreat77
 	url = https://github.com/CharlesTheGreat77/BADUSB.git
