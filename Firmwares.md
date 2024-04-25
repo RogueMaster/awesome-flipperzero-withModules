@@ -1,6 +1,6 @@
 <h1>Flipper Zero firmware differences</h1>
 <h3>
-    <code>::</code> Last updated September 21, 2023. <code>::</code>
+    <code>::</code> Last updated April 25, 2024. <code>::</code>
 </h3>
 <p>This document will <em>(hopefully)</em> maintain a list of differences between various forks of the <a
     href="#official">Flipper Zero firmware</a>. <br>If I had a dollar for every time I&#39;ve seen this question asked,
@@ -12,6 +12,9 @@
       <td><a href="#plugins">RogueMaster</a></td>
       <td><a href="#unleashed">Unleashed</a></td>
       <td><a href="#official">Official</a></td>
+      <td><a href="#Momentum">Momentum</a></td>
+      <td><a href="#Xtreme">Xtreme</a></td>
+      <td><a href="#Dexv">Xvirus</a></td>
       <td><a href="#Squachware">Squachware</a></td>
       <td><a href="#summary">Summary (TL;DR)</a></td>
     </tr></table>
@@ -62,6 +65,7 @@
                     href="https://github.com/DarkFlippers/unleashed-firmware#readme">README</a>.</li>
         </ul>
 </ul>
+
 <h2 id="official">Official<kbd>
     <a href="https://github.com/flipperdevices/flipperzero-firmware">flipperdevices/flipperzero-firmware</a>
   </kbd>
@@ -73,6 +77,61 @@
   <li>Factory-set device name that shows everywhere (Bluetooth broadcast, USB connection, etc) that cannot be changed.</li>
     <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
   </ul>
+  
+<h2 id="Momentum">
+    Momentum
+    <kbd>
+        <a href="https://github.com/Next-Flip/Momentum-Firmware">Next-Flip/Momentum-Firmware</a>
+    </kbd>
+</h2>
+<ul>
+    <li>Xtreme but without the NSFW BS, a direct continuation of the Xtreme firmware.</li>
+    <li>Adds custom UI and custom Main Menu themes, and asset packs (icons, animations)</li>
+    <li>Removes Sub-GHz regional transmission restrictions by default.</li>
+    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through Momentum Settings App.</li>
+    <li>Allows changing Flipper's name via Momentum Settings App</li>
+    <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
+    <li>Adds extra custom assets <em>(Mifare classic dict, more animations (installed separately), example files, etc)</em>.</li>
+    <li>Includes an enhanced/improved "Dolphin Level" system similar to RogueMaster.</li>
+    <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
+    <li>Also includes a number of other small tweaks, changes, and stability fixes.</li>
+</ul>
+<h1 id="official">Outdated Below
+  </kbd>
+</h1>
+<h2 id="Xtreme">
+    Xtreme
+    <kbd>
+        <a href="https://github.com/Flipper-XFW/Xtreme-Firmware">Flipper-XFW/Xtreme-Firmware</a>
+    </kbd>
+</h2>
+<ul>
+    <li>Built from RogueMaster originally then converted to fork of <a href="#unleashed">Unleashed</a> + <a href="#official">Official</a> FW for future development.</li>
+    <li>Adds custom UI and custom Main Menu themes, and asset packs (icons, animations)</li>
+    <li>Removes Sub-GHz regional transmission restrictions by default.</li>
+    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through Xtreme Settings App.</li>
+    <li>Allows changing Flipper's name via Xtreme Settings App</li>
+    <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
+    <li>Adds extra custom assets <em>(Mifare classic dict, more animations (installed separately), example files, etc)</em>.</li>
+    <li>Includes an enhanced/improved "Dolphin Level" system similar to RogueMaster.</li>
+    <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
+    <li>Also includes a number of other small tweaks, changes, and stability fixes.</li>
+</ul>
+<h2 id="Dexv">
+    Xvirus
+    <kbd>
+        <a href="https://github.com/Xvirus-Team/xvirus-firmware">Xvirus-Team/xvirus-firmware</a>
+    </kbd>
+</h2>
+<ul>
+    <li>Fork of <a href="#unleashed">Unleashed FW</a></li>
+    <li>Adds custom-themed graphics that are not included in the Official Firmware.</li>
+    <li>Removes Sub-GHz regional transmission restrictions after changes to <em>extend_range.txt</em> file.</li>
+    <li>Allows Sub-GHz extended frequency range (i.e. restaurant pagers) through <em>extend_range.txt</em> file.</li>
+    <li>Has Sub-GHz protocols and most of the other changes taken from Unleashed FW (see <a href="#unleashed">changes</a>).</li>
+    <li>Adds extra custom assets <em>(Mifare classic dict, example files, etc)</em>.</li>
+    <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
+</ul>
 <h2 id="Squachware">
     Squachware
     <kbd>
