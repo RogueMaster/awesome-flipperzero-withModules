@@ -11,8 +11,8 @@
       </td>
       <td><a href="#plugins">RogueMaster</a></td>
       <td><a href="#unleashed">Unleashed</a></td>
-      <td><a href="#official">Official</a></td>
       <td><a href="#Momentum">Momentum</a></td>
+      <td><a href="#official">Official</a></td>
       <td><a href="#Xtreme">Xtreme</a></td>
       <td><a href="#Dexv">Xvirus</a></td>
       <td><a href="#Squachware">Squachware</a></td>
@@ -65,18 +65,6 @@
                     href="https://github.com/DarkFlippers/unleashed-firmware#readme">README</a>.</li>
         </ul>
 </ul>
-
-<h2 id="official">Official<kbd>
-    <a href="https://github.com/flipperdevices/flipperzero-firmware">flipperdevices/flipperzero-firmware</a>
-  </kbd>
-</h2>
-<ul>
-  <li>Has region-locked Sub-GHz transmission because of legal limitations.</li>
-  <li>Has no ability to save and send rolling codes (dynamic encrypted) in Sub-GHz, only shows them in captured list.
-  </li>
-  <li>Factory-set device name that shows everywhere (Bluetooth broadcast, USB connection, etc) that cannot be changed.</li>
-    <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
-  </ul>
   
 <h2 id="Momentum">
     Momentum
@@ -96,6 +84,18 @@
     <li>Includes extra apps and plugins from the general community through SD Application loader (FAP files).</li>
     <li>Also includes a number of other small tweaks, changes, and stability fixes.</li>
 </ul>
+
+<h2 id="official">Official<kbd>
+    <a href="https://github.com/flipperdevices/flipperzero-firmware">flipperdevices/flipperzero-firmware</a>
+  </kbd>
+</h2>
+<ul>
+  <li>Has region-locked Sub-GHz transmission because of legal limitations.</li>
+  <li>Has no ability to save and send rolling codes (dynamic encrypted) in Sub-GHz, only shows them in captured list.
+  </li>
+  <li>Factory-set device name that shows everywhere (Bluetooth broadcast, USB connection, etc) that cannot be changed.</li>
+    <li><em>The Flipper team has a list of device names with their corresponding production information <a href="https://discord.com/channels/740930220399525928/765282833744265246/971881286543224852">(No shipping address)</a> so they can assist you easier in case of an RMA.</em></li>
+  </ul>
 <h1 id="official">Outdated Below
   </kbd>
 </h1>
