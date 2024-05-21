@@ -1,0 +1,32 @@
+Filetype: Flipper Animation
+Version: 1
+
+Width: 128
+Height: 64
+Passive frames: 2
+Active frames: 8
+Frames order: 0 1 2 3 2 3 4 5 4 5
+Active cycles: 1
+Frame rate: 2
+Duration: 3600
+Active cooldown: 5
+
+Bubble slots: 1
+
+Slot: 0
+X: 57
+Y: 20
+Text: PSY?!
+AlignH: Left
+AlignV: Bottom
+StartFrame: 3
+EndFrame: 6
+
+Slot: 0
+X: 57
+Y: 31
+Text: psyduck...
+AlignH: Left
+AlignV: Bottom
+StartFrame: 7
+EndFrame: 10
