@@ -1,6 +1,55 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
+Name: AbeNaws_MudkipPokeball_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: AbeNaws_Mudkip_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: AbeNaws_PkmnAll_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: AbeNaws_TorchicPokeball_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: AbeNaws_Torchic_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: AbeNaws_TreeckoPokeball_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: AbeNaws_Treecko_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
 Name: int0xmonkey_Haunter_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -106,13 +155,6 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: PikaSlap
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 8
-
 Name: naisatoh_PsyCouch_128x64
 Min butthurt: 0
 Max butthurt: 14
@@ -198,6 +240,13 @@ Max level: 30
 Weight: 8
 
 Name: NyanPikachu
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: PikaSlap
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
