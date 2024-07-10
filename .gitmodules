@@ -49,3 +49,6 @@
 [submodule "fw/UL-PLUGINS"]
 	path = fw/UL-PLUGINS
 	url = https://github.com/xMasterX/all-the-plugins.git
+[submodule "fw/mntm"]
+	path = fw/mntm
+	url = https://github.com/Next-Flip/Momentum-Firmware.git
