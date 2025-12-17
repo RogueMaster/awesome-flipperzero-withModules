@@ -16,8 +16,8 @@ Bubble slots: 1
 Slot: 0
 X: 11
 Y: 19
-Text: HAPPY\nHOLIDAYS!
+Text:  HAPPY\nHOLIDAYS!
 AlignH: Right
 AlignV: Center
-StartFrame: 22
-EndFrame: 27
+StartFrame: 7
+EndFrame: 12
