@@ -140,31 +140,3 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 7
-
-Name: L1_Happy_holidays_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: L1_Sleigh_ride_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: L1_Unleashed_New_year_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
-
-Name: L3_Unleashed_Fireplace_128x64
-Min butthurt: 0
-Max butthurt: 14
-Min level: 1
-Max level: 30
-Weight: 7
