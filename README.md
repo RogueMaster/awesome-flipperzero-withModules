@@ -53,6 +53,7 @@
 - [`FalsePhilosophers Flipper BadUSB` Flipper zero community ducky payload repo.](https://github.com/FalsePhilosopher/badusb)
 - [`My-Flipper-Shits` Free and open-source \[BadUSB\] payloads for Flipper Zero.](https://github.com/aleff-github/my-flipper-shits/)
 - [`SerialHex2FlipperZeroInfrared` Convert IR serial messages into FlipperZero compatible IR files.](https://github.com/maehw/SerialHex2FlipperZeroInfrared)
+- [`NullSec Flipper Zero Suite` Comprehensive payload collection with 430+ files including BadUSB scripts, SubGHz captures, NFC tools, IR databases, and GPIO utilities for penetration testing.](https://github.com/bad-antics/nullsec-flipper-zero)
 
 ## Applications & Plugins
 - [`The Flipper Zero user interface editor` The GUI editor/generator for Flipper Zero.](https://ilin.pt/stuff/fui-editor/)
