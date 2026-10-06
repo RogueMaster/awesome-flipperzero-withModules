@@ -176,6 +176,7 @@
 - [`FBT-AARCH64` A script that sets up FBT's toolchain on ARM devices.](https://github.com/qqmajikpp/FBT-AARCH64)
 - [`flipper2mct` A script to convert Flipper NFC files to Mifare Classic Tools format for MC 1k & 4k.](https://gist.github.com/ardubev16/339ee55e0e610e9241dd236c11ac3c3d)
 - [`PromptZero` Natural-language operator for the Flipper Zero (and ESP32 Marauder) — generate, deploy, and run payloads from a single sentence; CLI / web / MCP server modes.](https://github.com/xunholy/promptzero)
+- [`warmap` Desktop map that places Flipper Zero and Marauder wardriving captures on a GPS track, with an ALPR camera overlay and a phone view.](https://github.com/munzzyy/warmap)
 
 ## Notes & References
 
