@@ -88,6 +88,7 @@
 - [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
 - [`Reversi` The classic Reversi game](https://github.com/dimat/flipperzero-reversi)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`Tesla Mod` Tesla CAN bus toolkit using an MCP2515 CAN module on GPIO: live BMS dashboard, candump-format CAN capture, Track Mode, and Autopilot/FSD feature toggles. ESP32 port included.](https://github.com/hypery11/flipper-tesla-fsd)
 
 ## Firmwares & Tweaks
 
