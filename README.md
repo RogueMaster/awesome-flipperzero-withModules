@@ -88,6 +88,7 @@
 - [`Xbox Controller` Easy controller for Xbox One with IR](https://github.com/gebeto/flipper-xbox-controller)
 - [`Reversi` The classic Reversi game](https://github.com/dimat/flipperzero-reversi)
 - [`Servo Tester` Servo Tester App](https://github.com/mhasbini/ServoTesterApp)
+- [`Duckwalk` A jiggler that doesn't look like one: a rubber duck walks the pointer on random curves over USB or Bluetooth.](https://github.com/arudaev/duckwalk)
 
 ## Firmwares & Tweaks
 
