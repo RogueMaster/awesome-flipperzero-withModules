@@ -34,7 +34,7 @@
 
 
 ### How can I contribute to this repo?
-> Perferably, open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes, or use one of the methods in the next question to contact me.
+> Preferably, open a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) with your changes, or use one of the methods in the next question to contact me.
 
 ### I found a mistake, broken link, or something else. What should I do?
 > Open a [new discussion](https://github.com/djsime1/awesome-flipperzero/discussions/new) on this repo, or contact me via one of the methods listed on [this page](https://dj.je/pages/contact).
@@ -58,7 +58,7 @@
 
 ### How do I install databases and dumps?
 > Make sure there's a working MicroSD Card in the device first by following the steps above.
-> Once you download the dump, you can use qFlipper or the Flipper mobile app to transfer them. If you're transfering a large file or many at once, you can also eject the SD Card from Flipper and insert it in your computer for faster transfers.
+> Once you download the dump, you can use qFlipper or the Flipper mobile app to transfer them. If you're transferring a large file or many at once, you can also eject the SD Card from Flipper and insert it in your computer for faster transfers.
 > - In qFlipper: Plug your device in, go to the file browser tab, navigate into the SD Card, and drop files in their corresponding folders (The folder names are similar to the file extensions).
 > - For mobile apps: Make sure you're connected via Bluetooth, save the file to the app's archive, and synchronize it back to the device.
 > - For plugging the SD Card into your PC, drop files in their corresponding folders (The folder names are similar to the file extensions).
@@ -273,7 +273,7 @@
 | Paxton Net2       | ❌   | ❌    | ❌   | ❌      | No support for Hitag2             |
 | Legic Prime       | ❌   | ❌    | ❌   | ❌      | Proprietary protocol              |
 
-***Key:*** *Check = Already implimented as of latest official firmware. No mark = Could be implemented in the future. Cross mark = Unlikely to ever be implemented or impossible.*
+***Key:*** *Check = Already implemented as of latest official firmware. No mark = Could be implemented in the future. Cross mark = Unlikely to ever be implemented or impossible.*
 
 ### How do I identify which type of card/tag I have?
 > To determine the protocol (NFC, RFID, or iClass/PicoPass) you'll need to attempt reading in each corresponding app. If nothing works, check the tag/card for any markings or indications. As a last resort, take a picture of the card/fob and the reader and ask in the [Flipper Discord server](https://flipperzero.one/discord).
